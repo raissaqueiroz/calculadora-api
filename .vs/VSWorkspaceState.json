@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalculadoraApi",
+    "\\CalculadoraApi\\Controllers"
   ],
   "SelectedNode": "\\CalculadoraApi.sln",
   "PreviewInSolutionExplorer": false
